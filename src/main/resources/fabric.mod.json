@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "reflectionstestmod",
+  "version": "${version}",
+  "name": "reflectionstestmod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/embeddedt/reflectionstestmod"
+  },
+  "license": "OSL-3.0",
+  "icon": "assets/reflectionstestmod/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "org.embeddedt.reflectionstestmod.Reflectionstestmod"
+    ]
+  },
+  "depends": {
+  }
+}
